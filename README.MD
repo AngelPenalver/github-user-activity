@@ -2,6 +2,8 @@
 
 A command-line tool to fetch and display the recent public activity of any GitHub user.
 
+[View this project on roadmap.sh](https://roadmap.sh/projects/github-user-activity)
+
 ## Features
 
 - Fetches recent public events for a GitHub user.

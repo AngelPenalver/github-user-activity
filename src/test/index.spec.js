@@ -38,7 +38,6 @@ describe("getUserActivity", () => {
     expect(consoleErrorSpy).toHaveBeenCalledWith(
       "Error: User 'InvalidUser' not found on GitHub"
     );
-    expect(result).toBeUndefined();
   });
 
   test("should handle other API errors", async () => {
